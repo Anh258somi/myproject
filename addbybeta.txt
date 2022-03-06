@@ -13,8 +13,5 @@ luyen tap lan 3
 luyen tap lan 3.1
 luyen tap lan 4.1
 luyen tap lan 4
-<<<<<<< HEAD
 luyen tap lan 5.1
-=======
 luyen tap lan 5
->>>>>>> beta
