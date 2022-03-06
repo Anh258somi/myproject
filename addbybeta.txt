@@ -3,3 +3,5 @@ tiep tuc chinh sua
 tiep tuc chinh sua nua
 
 chinh sua lan thu n
+co xay ra conflict khong
+luyen tap lan 1.1
