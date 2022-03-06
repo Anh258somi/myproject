@@ -5,3 +5,5 @@ tiep tuc chinh sua nua
 co xay ra conflict ko nhi?
 chinh sua lan thu n
 luyen tap lan 1
+luyen tap lan 2
+
