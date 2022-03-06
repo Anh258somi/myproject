@@ -2,8 +2,11 @@ chinh sua boi nhanh beta
 tiep tuc chinh sua 
 tiep tuc chinh sua nua
 
-co xay ra conflict ko nhi?
 chinh sua lan thu n
+co xay ra conflict khong
+luyen tap lan 1.1
+co xay ra conflict ko nhi?
+luyen tap lan 2.1
 luyen tap lan 1
 luyen tap lan 2
 luyen tap lan 3
