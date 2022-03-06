@@ -17,4 +17,5 @@ luyen tap lan 5.1
 luyen tap lan 5
 luyen tap lan 6.1
 luyen tap lan 6
+luyen tap lan 7.1
 
