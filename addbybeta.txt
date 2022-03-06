@@ -20,4 +20,5 @@ luyen tap lan 6
 luyen tap lan 7.1
 luyen tap lan 7
 luyen tap lan 8.1
+luyen tap lan 8
 
