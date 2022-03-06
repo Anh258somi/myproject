@@ -2,9 +2,12 @@ chinh sua boi nhanh beta
 tiep tuc chinh sua 
 tiep tuc chinh sua nua
 
+<<<<<<< HEAD
 chinh sua lan thu n
 co xay ra conflict khong
 luyen tap lan 1.1
+=======
+>>>>>>> beta
 co xay ra conflict ko nhi?
 chinh sua lan thu n
 luyen tap lan 1
