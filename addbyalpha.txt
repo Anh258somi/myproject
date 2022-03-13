@@ -1,2 +1,6 @@
 chinh sua boi alpha
+<<<<<<< HEAD
 Luyen tap lan 1.1
+=======
+Luyen tap lan 1
+>>>>>>> alpha
