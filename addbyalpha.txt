@@ -5,3 +5,5 @@ luyen tap lan 2
 luyen tap lan 2.1
 luyen tap lan 3
 luyen tap lan 4.1
+luyen tap lan 3.1s
+luyen tap lan 4
